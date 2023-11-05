@@ -150,3 +150,4 @@ submit.addEventListener("click", (e) => {
 
 // Fetch initial weather data for "Delhi"
 getWeather("Delhi");
+
