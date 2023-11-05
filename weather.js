@@ -148,6 +148,6 @@ submit.addEventListener("click", (e) => {
   getWeather(cityInput.value);
 });
 
-// Fetch initial weather data for "Delhi"
-getWeather("Delhi");
+// Fetch initial weather data for "Lucknow"
+getWeather("Lucknow");
 
